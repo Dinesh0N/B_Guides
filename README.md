@@ -1,6 +1,7 @@
 # VSE Guides
 
 **Master composition with professional guides and rulers for the VSE and 3D Viewport.**
+![Image](https://github.com/user-attachments/assets/f099b664-9f32-4bca-a6da-bd6123e4c60e)
 
 ## Overview
 **VSE Guides** is the ultimate composition assistant for Blender users, designed to bridge the gap between video editing and 3D layout. Whether you are cutting a film in the Video Sequence Editor or framing a shot in the 3D Viewport, VSE Guides provides a comprehensive suite of overlay overlays to help you achieve perfect composition.
