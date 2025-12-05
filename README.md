@@ -1,4 +1,4 @@
-# VSE Guides
+# B Guides
 
 **Composition with professional guides and rulers for the VSE and 3D Viewport.**
 ![Image](https://github.com/user-attachments/assets/f099b664-9f32-4bca-a6da-bd6123e4c60e)
