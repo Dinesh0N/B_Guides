@@ -1,34 +1,34 @@
 # VSE Guides
 
-**Master composition with professional guides and rulers for the VSE and 3D Viewport.**
+**Composition with professional guides and rulers for the VSE and 3D Viewport.**
 ![Image](https://github.com/user-attachments/assets/f099b664-9f32-4bca-a6da-bd6123e4c60e)
 
 ## Overview
-**VSE Guides** is the ultimate composition assistant for Blender users, designed to bridge the gap between video editing and 3D layout. Whether you are cutting a film in the Video Sequence Editor or framing a shot in the 3D Viewport, VSE Guides provides a comprehensive suite of overlay overlays to help you achieve perfect composition.
-
-With support for both the VSE preview and individual 3D cameras, you can configure guides exactly where you need them. From standard Rule of Thirds to advanced Golden Ratios and customizable perspective lines, VSE Guides ensures your visual storytelling is precise and impactful.
+**VSE Guides** is the ultimate composition assistant for Blender users, designed to bridge the gap between video editing and 3D layout. Whether you are cutting a film in the Video Sequence Editor or framing a shot in the 3D Viewport, VSE Guides provides a comprehensive suite of overlays to help you achieve perfect composition. With support for both the VSE preview and individual 3D cameras, you can configure guides exactly where you need them. From standard Rule of Thirds to advanced Golden Ratios and customizable perspective lines, VSE Guides ensures your visual storytelling is precise and impactful.
 
 ## Main Features
 
 ### 🎥 Dual Context Support
 *   **Video Sequence Editor (VSE)**: Overlay guides directly on your sequence preview.
-*   **3D Viewport**: Assign unique guide configurations to different cameras. The guides automatically switch when you change the active camera.
+*   **3D Viewport**: Assign unique guide configurations to different cameras.
 
 ### 📐 Comprehensive Guide Library
-Includes a wide range of industry-standard composition guides:
+Includes a wide range of standard composition guides:
 *   **Rule of Thirds**: The essential baseline for framing.
 *   **Golden Ratio**: Achieve naturally pleasing proportions.
-*   **Golden Triangle**: Includes "Flip Horizontal" and "Flip Vertical" options for versatile framing.
+*   **Triangle & Circular**: Creates stable, harmonious paths that naturally guide the viewer’s eye through the frame.
+*   **Golden Spiral**: Leads attention along a smooth, natural curve toward the image’s focal point.
 *   **Diagonal Method**: Features adjustable angle control for dynamic compositions.
-*   **Harmonious Triangles**: Create complex, balanced layouts.
+*   **Golden Triangles**: Create complex, balanced layouts.
 *   **Vanishing Point**: Plot perspective with adjustable line counts/subdivisions.
-*   **Crosshair & Center**: Perfect for centering subjects.
-*   **Custom Guides**: Place generic lines anywhere on the screen with full rotation and position control.
+*   **Diagonals & Center**: Perfect for centering subjects.
+*   **Radial Symmetry**: Draws the viewer inward by directing all visual lines toward a central subject.
+*   **Diagonal Reciprocals**: Adds dynamic tension and balance by using intersecting diagonals to frame key elements.
+*   **Guides Lines**: Place generic lines anywhere on the screen with full rotation and position control.
+*   **Grid**: Provides balanced structure by aligning subjects along clear vertical and horizontal divisions for clean, organized compositions.
 
 ### 📏 Advanced Rulers
 *   Integrated rulers for precise measurement.
-*   **Customizable**: Adjust background color and opacity.
-*   **Zero-Point Alignment**: X-axis strictly aligned to the frame's top-left corner for intuitive coordinate reading.
 
 ### 🎨 Fully Customizable
 *   **Presets**: Save and load your favorite guide setups instantly.
