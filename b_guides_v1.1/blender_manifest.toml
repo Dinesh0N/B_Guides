@@ -1,0 +1,14 @@
+
+schema_version = "1.0.0"
+id = "b_guides"
+name = "B Guides"
+version = "1.0.1"
+tagline = "composition with guides and rulers for the VSE and 3D Viewport"
+maintainer = "Dinesh007"
+type = "add-on"
+tags = ["3D View", "Camera","Sequencer"]
+blender_version_min = "5.0.0"
+license = ["SPDX:GPL-3.0-or-later"]
+website = "https://github.com/Dinesh0N/B_Guides"
+copyright = ["2025 Dinesh"]
+
